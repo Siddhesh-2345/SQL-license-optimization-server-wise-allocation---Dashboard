@@ -1,6 +1,6 @@
 # SQL-license-optimization-server-wise-allocation---Dashboard
 
-I have prepared this dashboard to show the status of SQL server and licenseing to the upper management personnels in my current organisation. Also please note that we do not require 'Device CAL' license in our oraganization, since we do not provide Device based access to the users in our organization. Hence, I have showed it as 'Balance' amount in the dashboard (Separate clustered chart for the balance amount of Device CAL license). Further, for 'Core', 'User CAL' & 'Server' based licenses, I have showed showed them as 'Saving'.
+I have prepared this dashboard to show the status of SQL server and licensing in my current organization. Also, please note that we do not require 'Device CAL' license in our oraganization, since we do not provide Device based access to the users in our organization. Hence, I have showed it as 'Balance' amount in the dashboard (Separate clustered chart for the balance amount of Device CAL license). Further, for 'Core', 'User CAL' & 'Server' based licenses, I have showed showed them as 'Saving'.
 
 This Power BI dashboard provides a comprehensive view of SQL Server usage and licensing efficiency across multiple servers.  
 It helps database administrators and IT managers monitor user counts, compliance status, and license cost distribution to optimize resource allocation and reduce expenses.
