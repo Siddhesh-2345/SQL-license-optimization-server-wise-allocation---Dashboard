@@ -36,3 +36,5 @@ Key insights:
 - Scalable Design: Built to handle multiple servers and license types, adaptable to enterprise environments.
 
 This dashboard enables data-driven decisions for SQL license optimization, ensuring compliance and cost efficiency across the organization.
+
+Screenshot of my dashobard -> https://github.com/Siddhesh-2345/SQL-license-optimization-server-wise-allocation---Dashboard/blob/main/Dashboard%20Image.png
