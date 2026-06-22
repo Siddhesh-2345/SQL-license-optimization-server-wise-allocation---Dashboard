@@ -37,4 +37,4 @@ Key insights:
 
 This dashboard enables data-driven decisions for SQL license optimization, ensuring compliance and cost efficiency across the organization.
 
-Screenshot of my dashobard -> https://github.com/Siddhesh-2345/SQL-license-optimization-server-wise-allocation---Dashboard/blob/main/Dashboard%20Image.png
+Screenshot of my dashboard -> https://github.com/Siddhesh-2345/SQL-license-optimization-server-wise-allocation---Dashboard/blob/main/Dashboard%20Image.png
